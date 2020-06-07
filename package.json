@@ -1,0 +1,23 @@
+{
+  "name": "open-source-catalog",
+  "version": "0.0.1",
+  "description": "run ",
+  "repository": "sssolutiontec/open-source-catalog",
+  "license": "MIT",
+  "bugs": "https://github.com/sssolutiontec/open-source-catalog/issues",
+  "devDependencies": {
+    "@primer/css": "^14.3.0",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.3.3",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-primer": "^9.0.0",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-selector-no-utility": "^4.0.0"
+  },
+  "scripts": {
+    "test": "stylelint '**/*.scss'",
+    "format": "prettier --write '**/*.{scss,js,json}'",
+    "stylelint-check": "stylelint-config-prettier-check"
+  },
+  "dependencies": {}
+}

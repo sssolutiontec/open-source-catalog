@@ -1,0 +1,42 @@
+I"g<h1 id="request-tracker">Request Tracker</h1>
+
+<p>Request Tracker (RT) is the system you need to track the important tasks you can’t afford to forget.</p>
+
+<p><a href="https://bestpractical.com/" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank">Website</a> 
+<a href="https://github.com/bestpractical" class="btn fs-5 mb-4 mb-md-0" target="_blank">Source</a></p>
+
+<h2 id="details">Details</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Tech.</strong></td>
+      <td>Perl, modules from CPAN, SQL databases</td>
+    </tr>
+    <tr>
+      <td><strong>Code</strong></td>
+      <td>https://github.com/bestpractical</td>
+    </tr>
+    <tr>
+      <td><strong>Websites</strong></td>
+      <td>https://bestpractical.com/</td>
+    </tr>
+    <tr>
+      <td><strong>Categories</strong></td>
+      <td>Track</td>
+    </tr>
+    <tr>
+      <td><strong>Blogs</strong></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Tags</strong></td>
+      <td>ticking, RT, emails</td>
+    </tr>
+    <tr>
+      <td><strong>Products</strong></td>
+      <td>Request Tracker for Incident Response</td>
+    </tr>
+  </tbody>
+</table>
+:ET
