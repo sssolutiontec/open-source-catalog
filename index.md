@@ -9,11 +9,11 @@ permalink: /
 # Open Source Catalog
 {: .fs-9 }
 
-Aim is to catalog as many (best) open source as possible with the help of community.
+Aim is to catalog as many (best) open source as possible with the help of community. Use above search bar to quick search your keyword in catalog.
 {: .fs-6 .fw-300 }
 
-[Contribute entry](#contributing){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} 
-[View it on GitHub](https://github.com/sssolutiontec/open-source-catalog){: .btn .fs-5 .mb-4 .mb-md-0 target="_blank"}
+[Add entry on github](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"} 
+[Contribute entry](#contributing){: .btn .fs-5 .mb-4 .mb-md-0}
 
 ---
 
@@ -21,11 +21,10 @@ Thanks everyone who is maintaining/writing/contributing towards open source.
 
 - [opensource.com](https://opensource.com/){: target="_blank"}
 - [Open Source University Alliance](https://open-source-alliance.erasmuswithoutpaper.eu/){: target="_blank"}
-Bringing Higher Education IT-specialists across Europe together to work on common solutions.
 - [Open Source Business Alliance](https://osb-alliance.de/){: target="_blank"} 
-- [Geospatial projects](https://www.osgeo.org/choose-a-project/){: target="_blank"}
-The Open Source Geospatial Foundation
-- [Free Software](https://directory.fsf.org/wiki/Category/All){: target="_blank"}
+- [Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}
+- [Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}
+- [Scientific Data](https://fairsharing.org){: target="_blank"}
 
 Open source projects at organizations some of them are part of [talk openly develop openly](https://todogroup.org/members/){: target="_blank"}
 
@@ -52,14 +51,14 @@ Might interest you
 You can request for [Add new entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: target="_blank"} 
 or [Update existing entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aUpdateEntry.md&title=Update+existing+entry){: target="_blank"} on github.
 You can also make change in code and create pull request. Last but not least you can send use email on info@sssolutiontec.com 
-Read more about sending email or becoming a contributor in [our GitHub repo](https://github.com/sssolutiontec/open-source-catalog#contributing).
+Read more about sending email or becoming a contributor in [our GitHub repo](https://github.com/sssolutiontec/open-source-catalog#contributing){: target="_blank"}.
 
 #### Thank you to the contributors of OSC!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+     <a href="{{ contributor.html_url }}" target="_blank"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
   </li>
 {% endfor %}
 </ul>
@@ -68,9 +67,9 @@ Read more about sending email or becoming a contributor in [our GitHub repo](htt
 
 open source catalog is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/sssolutiontec/open-source-catalog/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/sssolutiontec/open-source-catalog/tree/master/CODE_OF_CONDUCT.md){: target="_blank"} on our GitHub repository.
 
 ### License
 
-OSC is distributed by an [MIT license](https://github.com/sssolutiontec/open-source-catalog/tree/master/LICENSE.txt)
+OSC is distributed by [MIT](https://github.com/sssolutiontec/open-source-catalog/tree/master/LICENSE.txt){: target="_blank"} license
 and &copy; 2020-2030 by [sssolutiontec](https://sssolutiontec.com/){: target="_blank"}

@@ -22,7 +22,7 @@ permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", ".idea/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/osc.png"
 
 # Enable or disable the site search
 search_enabled: true
@@ -35,11 +35,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Open Source Catalog on GitHub":
+  "OSC on GitHub":
     - "//github.com/sssolutiontec/open-source-catalog"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020-2030 <a href=\"https://sssolutiontec.com/\">sssolutiontec</a>sssolutiontec. Distributed by an <a href=\"https://github.com/sssolutiontec/open-source-catalog/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020-2030 <a href=\"https://sssolutiontec.com/\" target=\"_blank\">sssolutiontec</a>. Distributed by an <a href=\"https://github.com/sssolutiontec/open-source-catalog/tree/master/LICENSE.txt\" target=\"_blank\">MIT license.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
