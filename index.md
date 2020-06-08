@@ -25,6 +25,7 @@ Thanks everyone who is maintaining/writing/contributing towards open source.
 - [Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}
 - [Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}
 - [Scientific Data](https://fairsharing.org){: target="_blank"}
+- [Android FOSS applications](https://f-droid.org/en/packages/){: target="_blank"}
 
 Open source projects at organizations some of them are part of [talk openly develop openly](https://todogroup.org/members/){: target="_blank"}
 
