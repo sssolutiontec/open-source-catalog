@@ -16,8 +16,8 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/sssolu
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ### Add/Update entry
-If you have account on github use [Add new entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: target="_blank"} 
-or [Update existing entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aUpdateEntry.md&title=Update+existing+entry){: target="_blank"}
+If you have account on github use [Add new entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry) 
+or [Update existing entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aUpdateEntry.md&title=Update+existing+entry)
 to request add/update entry.
 
 ### Send us email
