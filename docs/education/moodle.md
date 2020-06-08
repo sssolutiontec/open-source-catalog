@@ -19,6 +19,6 @@ integrated system to create personalised learning environment
 |**Tech.**|PHP, JavaScript, SQL database|
 |**Code**|https://github.com/moodle/moodle|
 |**Websites**|https://moodle.com/ <br/> https://moodle.org/|
-|**Categories**|Education|
+|**Categories**|Education, LMS, SMS|
 |**Blogs**| |
-|**Tags**|school|
+|**Tags**|School Management System, Learning Management System|
