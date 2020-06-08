@@ -13,7 +13,7 @@ Aim is to catalog as many (best) open source as possible with the help of commun
 {: .fs-6 .fw-300 }
 
 [Add entry on github](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"} 
-[Contribute entry](#contributing){: .btn .fs-5 .mb-4 .mb-md-0}
+[Other ways to Contribute entry](#contributing){: .btn .fs-5 .mb-4 .mb-md-0}
 
 ---
 
@@ -35,7 +35,7 @@ Open source projects at organizations some of them are part of [talk openly deve
 
 Blogs
 
-|[Open Source for u](https://opensourceforu.com/){: target="_blank"}| [infoworld](https://www.infoworld.com/uk/category/open-source-tools/){: target="_blank"}|[Focus on Open Source](https://itsfoss.com/){: target="_blank"}|
+|[Open Source for u](https://opensourceforu.com/){: target="_blank"}| [infoworld](https://www.infoworld.com/uk/category/open-source-tools/){: target="_blank"}|[Focus on Open Source](https://itsfoss.com/){: target="_blank"}|[fosspost](https://fosspost.org/){: target="_blank"}|[medevel](https://medevel.com/tag/open-source/){: target="_blank"}|
 
 Might interest you
 
