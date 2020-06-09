@@ -64,7 +64,7 @@ Read more about sending email or becoming a contributor in [our GitHub repo](htt
   <li class="d-inline-block mr-1">
      <a href="{{ contributor.html_url }}" target="_blank"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
   </li>
-  {% endif %}
+  {% endunless %}
 {% endfor %}
 </ul>
 
