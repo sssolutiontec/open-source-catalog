@@ -16,7 +16,7 @@
 title: OSC
 description: Aim is to catalog as many open source as possible with the help of community
 baseurl: "/open-source-catalog" # the subpath of your site, e.g. /blog
-url: "https://sssolutiontec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://opensourcecatalog.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", ".idea/"]

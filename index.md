@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Open Source Catalog
 nav_order: 1
 description: "Aim is to catalog as many open source as possible with the help of community."
 permalink: /
