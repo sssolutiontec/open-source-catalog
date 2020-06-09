@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Catalog
+title: Home
 nav_order: 1
 description: "Aim is to catalog as many open source as possible with the help of community."
 permalink: /
@@ -9,7 +9,7 @@ permalink: /
 # Open Source Catalog
 {: .fs-9 }
 
-Aim is to catalog as many (best) open source as possible with the help of community. Use above search bar to quick search your keyword in catalog.
+Aim is to catalog as many (best) open source as possible with the help of community. Use menu, to explore or search your keyword in the catalog.
 {: .fs-6 .fw-300 }
 
 [Add entry on github](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"} 
