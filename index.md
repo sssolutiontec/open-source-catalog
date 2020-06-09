@@ -20,10 +20,11 @@ Aim is to catalog as many (best) open source as possible with the help of commun
 Thanks everyone who is maintaining/writing/contributing towards open source.
 
 |[opensource.com](https://opensource.com/){: target="_blank"}|[Open Source Affiliate](https://opensource.org/affiliates){: target="_blank"}|
-|[Scientific Data](https://fairsharing.org){: target="_blank"}|[Open Source University Alliance](https://open-source-alliance.erasmuswithoutpaper.eu/){: target="_blank"}|
-|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Open Source Business Alliance](https://osb-alliance.de/){: target="_blank"} |
+|[Scientific Data](https://fairsharing.org){: target="_blank"}|Open Source ([University](https://open-source-alliance.erasmuswithoutpaper.eu/){: target="_blank"} -- [Business](https://osb-alliance.de/){: target="_blank"}) Alliance|
+|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Blueprints for Civilization](https://www.opensourceecology.org/){: target="_blank"}|
 |[Open Source CMS](https://www.opensourcecms.com/){: target="_blank"}|[Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}|
 |[Center for Open Science](https://www.cos.io/){: target="_blank"}|[Android FOSS Applications](https://f-droid.org/en/packages/){: target="_blank"}|
+|[FINOS-Financial Services](https://www.finos.org/){: target="_blank"}|[Open Journals](http://www.theoj.org/){: target="_blank"} by [Num focus](https://numfocus.org/sponsored-projects){: target="_blank"}|
 
 Open source projects at organizations some of them are part of [talk openly develop openly](https://todogroup.org/members/){: target="_blank"}
 
@@ -36,11 +37,13 @@ Open source projects at organizations some of them are part of [talk openly deve
 Blogs
 
 |[Open Source for u](https://opensourceforu.com/){: target="_blank"}| [infoworld](https://www.infoworld.com/uk/category/open-source-tools/){: target="_blank"}|[Focus on Open Source](https://itsfoss.com/){: target="_blank"}|[fosspost](https://fosspost.org/){: target="_blank"}|[medevel](https://medevel.com/tag/open-source/){: target="_blank"}|
+|[tech republic](https://www.techrepublic.com/topic/open-source/){: target="_blank"}|[ted](https://www.ted.com/topics/open-source){: target="_blank"}|[Open Hardware](https://www.openhardware.io/){: target="_blank"}|
 
 Might interest you
 
 - [opensource.dev](https://opensource.dev/){: target="_blank"}
 - [opensource.guide](https://opensource.guide/){: target="_blank"}
+- [choosealicense](https://choosealicense.com/){: target="_blank"}
 
 ---
 
