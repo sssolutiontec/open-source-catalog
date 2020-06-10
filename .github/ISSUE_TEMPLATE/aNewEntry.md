@@ -14,7 +14,7 @@ Name of open source product. This will appear on top of page.
 
 ***Description:**
 
-A clear and concise description of what this is about.
+Explain this product, what is work for, benefits etc to under stand others.
 
 ***Website(s):**
 
