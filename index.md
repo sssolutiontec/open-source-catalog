@@ -21,10 +21,9 @@ Thanks everyone who is maintaining/writing/contributing towards open source.
 
 |[opensource.com](https://opensource.com/){: target="_blank"}|[Open Source Affiliate](https://opensource.org/affiliates){: target="_blank"}|
 |[Scientific Data](https://fairsharing.org){: target="_blank"}|Open Source ([University](https://open-source-alliance.erasmuswithoutpaper.eu/){: target="_blank"} -- [Business](https://osb-alliance.de/){: target="_blank"}) Alliance|
-|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Blueprints for Civilization](https://www.opensourceecology.org/){: target="_blank"}|
+|[FINOS-Financial Services](https://www.finos.org/){: target="_blank"}|[Blueprints for Civilization](https://www.opensourceecology.org/){: target="_blank"}|
 |[Open Source CMS](https://www.opensourcecms.com/){: target="_blank"}|[Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}|
-|[Center for Open Science](https://www.cos.io/){: target="_blank"}|[Android FOSS Applications](https://f-droid.org/en/packages/){: target="_blank"}|
-|[FINOS-Financial Services](https://www.finos.org/){: target="_blank"}|[Open Journals](http://www.theoj.org/){: target="_blank"} by [Num focus](https://numfocus.org/sponsored-projects){: target="_blank"}|
+|[Center for Open Science](https://www.cos.io/){: target="_blank"}|[Open Journals](http://www.theoj.org/){: target="_blank"} by [Num focus](https://numfocus.org/sponsored-projects){: target="_blank"}|
 
 Open source projects at organizations some of them are part of [talk openly develop openly](https://todogroup.org/members/){: target="_blank"}
 
@@ -32,7 +31,7 @@ Open source projects at organizations some of them are part of [talk openly deve
 |[EMBL-EBI](https://www.ebi.ac.uk/services){: target="_blank"}|[Apache](https://apache.org/index.html#projects-list){: target="_blank"}|[jetbrains](https://www.jetbrains.com/opensource/){: target="_blank"}|[apple](https://opensource.apple.com/){: target="_blank"}|[Huawei](https://consumer.huawei.com/en/opensource/){: target="_blank"}|
 |[Intel](https://01.org/){: target="_blank"}|[Eclipse](https://projects.eclipse.org/){: target="_blank"}|[FSF](https://www.fsf.org/resources/){: target="_blank"}|[SPI](https://www.spi-inc.org/projects/){: target="_blank"}|[sfconservancy](https://sfconservancy.org/projects/current/){: target="_blank"}|
 |[Linux](https://www.linuxfoundation.org/projects/){: target="_blank"}|[netflix](https://netflix.github.io/){: target="_blank"}|[SAP](https://developers.sap.com/open-source.html){: target="_blank"}|[Michigan Tech Uni](https://opensource.mtu.edu/){: target="_blank"}|[apereo](https://www.apereo.org/content/projects-communities){: target="_blank"}|
-|[kuali](https://kuali.org/about/#projects){: target="_blank"}|
+|[NASA](https://code.nasa.gov/){: target="_blank"}|[kuali](https://kuali.org/about/#projects){: target="_blank"}|
 
 Blogs
 
@@ -44,6 +43,12 @@ Might interest you
 - [opensource.dev](https://opensource.dev/){: target="_blank"}
 - [opensource.guide](https://opensource.guide/){: target="_blank"}
 - [choosealicense](https://choosealicense.com/){: target="_blank"}
+
+Others who are cataloging open source
+
+- [Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}
+- [Android FOSS Applications](https://f-droid.org/en/packages/){: target="_blank"}
+- [Awesome opensource](https://awesomeopensource.com/){: target="_blank"}
 
 ---
 
