@@ -3,6 +3,7 @@ layout: default
 title: RocketChat
 parent: Social
 nav_order: 185
+description: "Rocket Chat open source Charts, Text, audio, video or screen share"
 ---
 
 # Rocket Chat

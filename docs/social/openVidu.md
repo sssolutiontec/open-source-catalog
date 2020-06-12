@@ -3,6 +3,7 @@ layout: default
 title: OpenVidu
 parent: Social
 nav_order: 155
+description: "OpenVidu open source Charts, Text, audio, video or screen share"
 ---
 
 # OpenVidu

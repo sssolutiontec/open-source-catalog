@@ -4,6 +4,7 @@ title: Biology
 nav_order: 20
 has_children: true
 permalink: /docs/biology
+description: "open source biology bioinformatics"
 ---
 
 # Biology

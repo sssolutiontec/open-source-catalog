@@ -3,6 +3,7 @@ layout: default
 title: NextCloud
 parent: Cloud
 nav_order: 140
+description: "NextCloud open source cloud"
 ---
 
 # NextCloud

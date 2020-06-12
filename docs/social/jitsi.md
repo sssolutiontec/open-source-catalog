@@ -3,6 +3,7 @@ layout: default
 title: Jitsi
 parent: Social
 nav_order: 105
+description: "Jitsi open source Charts, Text, audio, video or screen share"
 ---
 
 # Jitsi

@@ -3,6 +3,7 @@ layout: default
 title: OpenMeetings
 parent: Social
 nav_order: 150
+description: "OpenMeetings open source Charts, Text, audio, video or screen share"
 ---
 
 # OpenMeetings Apache

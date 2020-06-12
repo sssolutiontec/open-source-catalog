@@ -3,6 +3,7 @@ layout: default
 title: BigBlueButton
 parent: Social
 nav_order: 20
+description: "BigBlueButton open source Charts, Text, audio, video or screen share"
 ---
 
 # BigBlueButton

@@ -3,6 +3,7 @@ layout: default
 title: MinIO
 parent: Orchestration
 nav_order: 135
+description: "MinIO open source cloud Orchestration"
 ---
 
 # MinIO

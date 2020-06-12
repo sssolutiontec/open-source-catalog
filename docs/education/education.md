@@ -4,6 +4,7 @@ title: Education
 nav_order: 50
 has_children: true
 permalink: /docs/education
+description: "open source education"
 ---
 
 # Education

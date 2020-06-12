@@ -3,6 +3,7 @@ layout: default
 title: VSCode
 parent: Editor
 nav_order: 220
+description: "vscode Visual Studio Code open source ide"
 ---
 
 # Visual Studio Code

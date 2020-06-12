@@ -3,6 +3,7 @@ layout: default
 title: Wire
 parent: Social
 nav_order: 230
+description: "Wire open source Charts, Text, audio, video or screen share"
 ---
 
 # Wire

@@ -3,6 +3,7 @@ layout: default
 title: Moodle
 parent: Education
 nav_order: 1
+description: "Moodle open source education"
 ---
 
 # Moodle

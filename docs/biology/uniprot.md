@@ -3,6 +3,7 @@ layout: default
 title: Uniprot
 parent: Biology
 nav_order: 1
+description: "uniprot open source biology"
 ---
 
 # Uniprot

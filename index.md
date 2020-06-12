@@ -2,14 +2,13 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Aim is to catalog as many open source as possible with the help of community."
 permalink: /
 ---
 
 # Open Source Catalog
 {: .fs-9 }
 
-Aim is to catalog as many (best) open source as possible with the help of community. Use menu, to explore or search your keyword in the catalog.
+Aim is to catalog as many (well tested, widely used, alternate to commercial) open source as possible with the help of community. Use menu, to explore or search your keyword in the catalog.
 {: .fs-6 .fw-300 }
 
 [Add entry on github](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"} 
@@ -58,7 +57,7 @@ Others who are cataloging open source
 
 You can request for [Add new entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aNewEntry.md&title=Add+new+entry){: target="_blank"} 
 or [Update existing entry](https://github.com/sssolutiontec/open-source-catalog/issues/new?assignees=&labels=&template=aUpdateEntry.md&title=Update+existing+entry){: target="_blank"} on github.
-You can also make change in code and create pull request. Last but not least you can send use email on info@sssolutiontec.com 
+You can also make change in code and create pull request. Last but not least you can send use email on (info at sssolutiontec dot com)
 Read more about sending email or becoming a contributor in [our GitHub repo](https://github.com/sssolutiontec/open-source-catalog#contributing){: target="_blank"}.
 
 #### Thank you to the contributors of OSC!

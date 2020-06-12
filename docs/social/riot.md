@@ -3,6 +3,7 @@ layout: default
 title: Riot
 parent: Social
 nav_order: 180
+description: "Riot open source Charts, Text, audio, video or screen share"
 ---
 
 # Riot

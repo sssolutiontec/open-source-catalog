@@ -3,6 +3,7 @@ layout: default
 title: Signal
 parent: Social
 nav_order: 190
+description: "Signal open source Charts, Text, audio, video or screen share"
 ---
 
 # Signal

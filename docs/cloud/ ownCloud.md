@@ -3,6 +3,7 @@ layout: default
 title: ownCloud
 parent: Cloud
 nav_order: 150
+description: "ownCloud open source cloud"
 ---
 
 # ownCloud

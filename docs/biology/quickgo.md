@@ -3,6 +3,7 @@ layout: default
 title: Quickgo
 parent: Biology
 nav_order: 1
+description: "quickgo Open source biology"
 ---
 
 # Quickgo
@@ -14,13 +15,11 @@ Gene ontology annotation browser
 
 ## Detail Information
 
-| Keys | values                         |
-|:----------|:-------------------------------------|
-| Frontend code |https://github.com/ebi-uniprot/QuickGoFE|
-| Backend code |https://github.com/ebi-uniprot/QuickGOBE|
-| Websites    |https://www.ebi.ac.uk/QuickGO/|
-| FE Tech.|Angular|
-|BE Tech.|Java Spring Solr|
-|Categories|Bioinformatics, Biology|
-| Blogs      | |
-|Tags|GO, Quickgo|
+|**FE Tech.**|Angular|
+|**Frontend code**|https://github.com/ebi-uniprot/QuickGoFE|
+|**BE Tech.**|Java Spring Solr|
+|**Backend code**|https://github.com/ebi-uniprot/QuickGOBE|
+|**Websites**|https://www.ebi.ac.uk/QuickGO/|
+|**Categories**|Bioinformatics, Biology|
+|**Blogs**| |
+|**Tags**|GO, Quickgo|

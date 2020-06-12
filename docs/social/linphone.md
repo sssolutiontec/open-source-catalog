@@ -3,6 +3,7 @@ layout: default
 title: Linphone
 parent: Social
 nav_order: 120
+description: "Linphone open source Charts, Text, audio, video or screen share"
 ---
 
 # Linphone

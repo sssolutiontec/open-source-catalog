@@ -3,6 +3,7 @@ layout: default
 title: Jami
 parent: Social
 nav_order: 100
+description: "Jami open source Charts, Text, audio, video or screen share"
 ---
 
 # Jami

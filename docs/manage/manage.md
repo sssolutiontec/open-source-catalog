@@ -4,6 +4,7 @@ title: Manage
 nav_order: 130
 has_children: true
 permalink: /docs/manage
+description: "open source manage management self manage"
 ---
 
 # Management

@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OSC
-description: Aim is to catalog as many open source as possible with the help of community
+title: Open Source Catalog
+tagline: Open Source software hardware & reference Catalog
+description: Open Source Catalog - Free softwares with catagories - References to other projects -Open source alternate to commercial
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opensourcecatalog.com" # the base hostname & protocol for your site, e.g. http://example.com
 

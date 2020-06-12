@@ -21,7 +21,7 @@ or [Update existing entry](https://github.com/sssolutiontec/open-source-catalog/
 to request add/update entry.
 
 ### Send us email
-You can send email on info@sssolutiontec.com subject should include OSC init. e-g Add entry OSC or update entry OSC
+You can send email on (info at sssolutiontec dot com) subject should include OSC init. e-g Add entry OSC or update entry OSC
 
 For new entry, your email should contain following
 ```

@@ -3,6 +3,7 @@ layout: default
 title: MasterPassword
 parent: Manage
 nav_order: 130
+description: "Master Password open source self management"
 ---
 
 # Master Password
