@@ -46,7 +46,7 @@ Might interest you
 Others who are cataloging open source
 
 |[Alternatives for your favorite apps](https://opensource.builders/){: target="_blank"}|[Product Hunt](https://www.producthunt.com/topics/open-source){: target="_blank"}|[Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted){: target="_blank"}|[sysadmin](https://github.com/n1trux/awesome-sysadmin){: target="_blank"}|[Privacy tools](https://www.privacytools.io/software/){: target="_blank"}|
-|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|
+|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Git Trends](https://git.news/){: target="_blank"}|
 |[Android FOSS Applications](https://f-droid.org/en/packages/){: target="_blank"}|
 |[Awesome opensource](https://awesomeopensource.com/){: target="_blank"}|
 
