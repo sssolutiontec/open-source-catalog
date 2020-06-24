@@ -17,5 +17,5 @@ Lets you stay in control of how you instrument and analyze the use of your websi
 |**Tech.**|PHP, Javascript|
 |**Install**|https://github.com/padams/Open-Web-Analytics/wiki/Installation|
 |**Categories**|Analytics, Web|
-|**License**|GPL V2|
+|**License**|[GPL V2](https://choosealicense.com/licenses/gpl-2.0/){: target="_blank"}|
 |**Tags**|google analytics|

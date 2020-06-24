@@ -18,5 +18,5 @@ A powerful web analytics platform that gives you and your business 100% data own
 |**Demo**|https://demo.matomo.org|
 |**Install**|https://matomo.org/docs/installation|
 |**Categories**|Analytics, Web|
-|**License**|GPL V3|
+|**License**|[GPL V3](https://choosealicense.com/licenses/gpl-3.0/){: target="_blank"}|
 |**Tags**|google analytics|

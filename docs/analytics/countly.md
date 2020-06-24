@@ -14,8 +14,8 @@ Platform to understand and enhance customer journeys in web, desktop and mobile 
 
 ## Details
 
-|**Tech.**|Node, Express, MongoDB [details](https://support.count.ly/hc/en-us/articles/360037092232-Open-source-components){: target="_blank"}|
+|**Tech.**|Node, Express, MongoDB, [more](https://support.count.ly/hc/en-us/articles/360037092232-Open-source-components){: target="_blank"}|
 |**Install**|https://support.count.ly/hc/en-us/articles/360037814151-Deployment-scenarios|
 |**Categories**|Analytics, Web|
-|**License**|AGPL V3-MOD|
+|**License**|[AGPL V3](https://choosealicense.com/licenses/agpl-3.0/){: target="_blank"}-[MOD](https://github.com/Countly/countly-server/blob/master/LICENSE){: target="_blank"}|
 |**Tags**|google analytics|
