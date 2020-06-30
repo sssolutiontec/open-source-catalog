@@ -18,11 +18,11 @@ Aim is to catalog as many (well tested, widely used, alternate to commercial) op
 
 Thanks everyone who is maintaining/writing/contributing towards open source.
 
-|[opensource.com](https://opensource.com/){: target="_blank"}|[Open Source Affiliate](https://opensource.org/affiliates){: target="_blank"}|
+|[opensource.com](https://opensource.com){: target="_blank"}|[Open Source Affiliate](https://opensource.org/affiliates){: target="_blank"}|
 |[Scientific Data](https://fairsharing.org){: target="_blank"}|Open Source ([University](https://open-source-alliance.erasmuswithoutpaper.eu/){: target="_blank"} -- [Business](https://osb-alliance.de/){: target="_blank"}) Alliance|
-|[FINOS-Financial Services](https://www.finos.org/){: target="_blank"}|[Blueprints for Civilization](https://www.opensourceecology.org/){: target="_blank"}|
-|[Open Source CMS](https://www.opensourcecms.com/){: target="_blank"}|[Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}|
-|[Center for Open Science](https://www.cos.io/){: target="_blank"}|[Open Journals](http://www.theoj.org/){: target="_blank"} by [Num focus](https://numfocus.org/sponsored-projects){: target="_blank"}|
+|[FINOS-Financial Services](https://www.finos.org){: target="_blank"}|[Blueprints for Civilization](https://www.opensourceecology.org/){: target="_blank"}|
+|[Open Collective](https://opencollective.com/discover){: target="_blank"}|[Open Source Geospatial Foundation](https://www.osgeo.org/choose-a-project/){: target="_blank"}|
+|[Center for Open Science](https://www.cos.io){: target="_blank"}|[Open Journals](http://www.theoj.org/){: target="_blank"} by [Num focus](https://numfocus.org/sponsored-projects){: target="_blank"}|
 
 Open source projects at organizations some of them are part of [talk openly develop openly](https://todogroup.org/members/){: target="_blank"}
 
@@ -46,7 +46,7 @@ Might interest you
 Others who are cataloging open source
 
 |[Alternatives for your favorite apps](https://opensource.builders/){: target="_blank"}|[Product Hunt](https://www.producthunt.com/topics/open-source){: target="_blank"}|[Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted){: target="_blank"}|[sysadmin](https://github.com/n1trux/awesome-sysadmin){: target="_blank"}|[Privacy tools](https://www.privacytools.io/software/){: target="_blank"}|
-|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Git Trends](https://git.news/){: target="_blank"}|
+|[Free Software Directory](https://directory.fsf.org/wiki/Category/All){: target="_blank"}|[Git Trends](https://git.news/){: target="_blank"}|[Open Source CMS](https://www.opensourcecms.com/){: target="_blank"}|
 |[Android FOSS Applications](https://f-droid.org/en/packages/){: target="_blank"}|
 |[Awesome opensource](https://awesomeopensource.com/){: target="_blank"}|
 
