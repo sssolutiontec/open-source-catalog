@@ -21,3 +21,10 @@ nav_order:
 |**Blogs**||
 |**Tags**||
 |**Products**||
+
+|**Tech.**||
+|**Demo**||
+|**Install**||
+|**Categories**||
+|**License**||
+|**Tags**||
