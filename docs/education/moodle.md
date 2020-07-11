@@ -2,7 +2,7 @@
 layout: default
 title: Moodle
 parent: Education
-nav_order: 1
+nav_order: 130
 description: "Moodle open source education"
 ---
 
