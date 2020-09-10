@@ -30,7 +30,7 @@ Open source projects at organizations some of them are part of [talk openly deve
 |[EMBL-EBI](https://www.ebi.ac.uk/services){: target="_blank"}|[Apache](https://apache.org/index.html#projects-list){: target="_blank"}|[jetbrains](https://www.jetbrains.com/opensource/){: target="_blank"}|[apple](https://opensource.apple.com/){: target="_blank"}|[Huawei](https://consumer.huawei.com/en/opensource/){: target="_blank"}|
 |[Intel](https://01.org/){: target="_blank"}|[Eclipse](https://projects.eclipse.org/){: target="_blank"}|[FSF](https://www.fsf.org/resources/){: target="_blank"}|[SPI](https://www.spi-inc.org/projects/){: target="_blank"}|[sfconservancy](https://sfconservancy.org/projects/current/){: target="_blank"}|
 |[Linux](https://www.linuxfoundation.org/projects/){: target="_blank"}|[netflix](https://netflix.github.io/){: target="_blank"}|[SAP](https://developers.sap.com/open-source.html){: target="_blank"}|[Michigan Tech Uni](https://opensource.mtu.edu/){: target="_blank"}|[apereo](https://www.apereo.org/content/projects-communities){: target="_blank"}|
-|[NASA](https://code.nasa.gov/){: target="_blank"}|[kuali](https://kuali.org/about/#projects){: target="_blank"}|
+|[NASA](https://code.nasa.gov/){: target="_blank"}|[kuali](https://kuali.org/about/#projects){: target="_blank"}|[CNCF](https://www.cncf.io/){: target="_blank"}|
 
 Blogs
 
