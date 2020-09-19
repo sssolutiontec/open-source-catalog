@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Use Internet Safely
+parent: Education
 nav_order: 210
-has_children: true
-permalink: /docs/education
 description: "open source education"
 ---
 

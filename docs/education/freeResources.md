@@ -3,6 +3,7 @@ layout: default
 title: FreeResources
 parent: Education
 nav_order: 60
+description: "open source education"
 ---
 
 # Free Leaning Resources
