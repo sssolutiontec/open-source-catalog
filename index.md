@@ -42,6 +42,7 @@ Might interest you
 - [opensource.dev](https://opensource.dev/){: target="_blank"}
 - [opensource.guide](https://opensource.guide/){: target="_blank"}
 - [choosealicense](https://choosealicense.com/){: target="_blank"}
+- [FOSDEM](https://fosdem.org){: target="_blank"} is a free event for open source and their [previous events video](https://video.fosdem.org/){: target="_blank"} library
 
 Others who are cataloging open source
 
