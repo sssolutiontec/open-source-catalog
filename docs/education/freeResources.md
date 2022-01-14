@@ -24,3 +24,4 @@ Following are free leaning resources. Because world is now open to anyone who ha
 * [Google cloud training](https://go.qwiklabs.com/qwiklabs-free){: target="_blank"} Become a Google Cloud Platform expert with hands-on training - 1 month free
 * [AWS Training](https://aws.training/){: target="_blank"} free cloud courses and lectures and complete them at your own pace.
 * [KataCoda](https://www.katacoda.com/){: target="_blank"} interactive technical learning platform for software developers specially cloud
+* [Urdu IT Academy](https://www.urduitacademy.com/){: target="_blank"} Start learning about IT in Urdu/Hindi language without creating account. Videos are hosted on youtube and can view from their web interface
