@@ -10,6 +10,10 @@ description: "open source education"
 
 Following are free leaning resources. Because world is now open to anyone who have access to internet. Apart from below list remember almost all big universities have their Youtube channels to publish courses and classes.
 
+* AI and machine learning
+    * [Deep Learning](https://course.fast.ai/){: target="_blank"} Practical and free course designed for people with some coding experience
+    * [AI IBM](https://www.ibm.com/think/ai-academy){: target="_blank"} IBM academy for AI and machine learning
+
 * [MIT’s  open course ware](https://ocw.mit.edu/index.htm){: target="_blank"} All of MIT course materials online and make them widely available to everyone
 * [Khan Academy](https://www.khanacademy.org/){: target="_blank"} Provide a free, world-class education for anyone, anywhere
 * [Coursera](https://www.coursera.org/){: target="_blank"}
