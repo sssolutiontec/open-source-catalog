@@ -6,9 +6,9 @@ nav_order: 60
 description: "open source education"
 ---
 
-# Free Leaning Resources
+# Free Learning Resources
 
-Following are free leaning resources. Because world is now open to anyone who have access to internet. Apart from below list remember almost all big universities have their Youtube channels to publish courses and classes.
+Following are free learning resources. Because world is now open to anyone who have access to internet. Apart from below list remember almost all big universities have their Youtube channels to publish courses and classes.
 
 * AI and machine learning
     * [Deep Learning](https://course.fast.ai/){: target="_blank"} Practical and free course designed for people with some coding experience
